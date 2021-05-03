@@ -7,6 +7,7 @@ Contibutors:
 1.Tushar Saxena
 2.Divyanshi Bansal
 3.Janvi Pangoriya
+4.Siddhant Gupta
 
 Live on : https://tusharsaxena3112.github.io/QuoraForCollege/
 
