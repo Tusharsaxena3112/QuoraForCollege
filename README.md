@@ -6,7 +6,8 @@ This is the Quora Clone where different users can log in and can ask different q
 Contibutors:
 1.Tushar Saxena
 2.Divyanshi Bansal
-3.Jhanvi Pangoria
+3.Janvi Pangoriya
+4.Siddhant Gupta
 
 Live on : https://tusharsaxena3112.github.io/QuoraForCollege/
 
